@@ -1,2 +1,2 @@
 my readme file
-i am enjoying git
+ It’s the only time you are allowed to update and commit from GitHub interface.
